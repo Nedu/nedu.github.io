@@ -19,15 +19,14 @@ class Header extends React.Component {
     return (
       <div className="Navbar">
         <div className="Navbar__Link Navbar__Link-brand">
-          <a href="/" className="Navbar__Link-brandLink" title="Nedu Robert">
+          <Link to="/" className="Navbar__Link-brandLink" title="Nedu Robert">
             <span>&lt;NR&gt;</span>
-          </a>
+          </Link>
         </div>
         <div
           className="Navbar__Link Navbar__Link-toggle"
           onClick={this.classToggle}
         >
-          {/* <i className="fas fa-bars" /> */}
           <FaBar />
         </div>
         <nav className="Navbar__Items Navbar__Items--left">
