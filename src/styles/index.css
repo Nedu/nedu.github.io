@@ -1,0 +1,28 @@
+.home {
+	background: linear-gradient(rgba(3, 30, 73, .7), rgba(3, 30, 73, .7)), url('../../public/static/images/home.jpeg') no-repeat center;
+    background-size: cover;
+    margin: 0;
+    max-width: 100%;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.intro__text {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	text-transform: uppercase;
+	padding: 12% 0 0;
+	color: #FFF;
+	vertical-align: middle;
+}
+
+hr {
+	border-top: 1px solid #FFF;
+	border-bottom: 1px solid #FFF;
+	width: 23em;
+    margin-left: 35%;
+  	border-width: 1px 0 0 0; 
+  	border-radius: 20px; 
+} 
