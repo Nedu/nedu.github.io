@@ -1,0 +1,11 @@
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 70px 50px 0;
+}
+
+.portfolio img {
+    width: 33%;
+    height: 33%;
+    padding-bottom: 50px;
+}
