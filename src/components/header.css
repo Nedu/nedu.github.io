@@ -1,15 +1,27 @@
 .Navbar {
   background-color: #404C58;
   display: flex;
-  padding: 16px;
+  padding: 10px;
   font-family: sans-serif;
   color: white;
-  justify-content: space-between;
+  justify-content: space-around;
   list-style-type: none;
 }
 
 .Navbar__Link {
-  padding-right: 8px;
+  padding-right: 2em;
+  color: #FFF;
+  text-decoration: none;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 0.8em;
+}
+
+.Navbar__Link:hover {
+  font-size: 1.2em;
+}
+
+.Navbar__Icon {
+  margin-right: 10px;
 }
 
 .Navbar__Items {
