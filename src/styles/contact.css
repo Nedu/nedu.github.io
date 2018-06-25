@@ -1,0 +1,75 @@
+.contactPage {
+    background-color: #D7C69F;
+    height: 100vh;
+}
+
+.contact {
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 400px;
+    width: 100%;
+}
+
+.contact h1 {
+    font-size: 2.5em;
+}
+
+.contact label {
+    font-weight: bold;
+}
+
+.icon {
+    color: #f3ecdf;
+    background-color: #404C58;
+    font-size: 1.8em;
+    padding: 8px;
+    vertical-align: -2;
+}
+
+.form-group {
+    margin-bottom: 1em;
+}
+
+.contactPage input {
+    padding: 0 1.1em 0.15em 1.1em;
+}
+
+.contactPage button {
+    padding: 0 2.7em 0.15em 2.7em;
+}
+
+@media(min-width: 900px) {
+    .contact {
+        max-width: 580px;
+    }
+
+    .contact h1 {
+        font-size: 3.5em;
+        margin-bottom: 1em;
+        margin-left: 1em;
+    }
+
+    .form-group {
+        display: flex;
+    }
+
+    .contact label {
+        margin-right: 4em;
+    }
+
+    #emailLabel {
+        margin-right: 2.3em;
+    }
+
+    #phoneLabel {
+        margin-right: 4.7em;
+    }
+
+    #messageLabel {
+        margin-right: 5.3em;
+    }
+
+    .contactPage button {
+        padding: 0 8em 0.15em 8em;
+    }
+}
