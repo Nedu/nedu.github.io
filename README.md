@@ -1,26 +1,17 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# Nedu Robert
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+#### [nedu.github.io/](https://nedu.github.io/)
 
-## Install
+Feel free to contact me if you have any questions. My contact information can be found at the contact section of my website.
 
-Make sure that you have the Gatsby CLI program installed:
-```sh
-npm install --global gatsby-cli
-```
+#### About Myself
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
+I am a full-stack developer dedicated to acquiring the best web practices. With a strong foundation on being self-sufficient in my learning, I have built a variety of web applications using HTML5, CSS3, Javascript, React, Redux, NodeJs, Express, and MongoDB. I have a solid understanding in creating and consuming front-end APIs. With this knowledge I have built dynamic web applications such as a blog platform app and Wikipedia viewer. I am also adept in responsive web design. My portfolio page utilizes the Gatsby static site generator in combination with GraphQL and a responsive UI.
 
-Then you can run it by:
-```sh
-cd gatsby-example-site
-npm run develop
-```
+#### My Recent Projects
 
-## Deploy
+I am most familiar working with NodeJs, Express and mongoDB in the back end, and HTML5, CSS3, Javascript React and Redux in the front end. Some other frameworks and libraries that I use include Bootstrap, MeteorJS, Flask and jQuery. I also use Github for version control, Heroku for app deployment in a cloud platform, and stylesheet preprocessors such as Sass and LESS. I'm currently working on a personal project where I am creating 100 web apps as a way to showcase my skills and abilities. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+#### What I'm looking for
+
+I have a strong desire to grow as a developer and I want to work for a company that embraces learning. While I would be most comfortable to work at a place which employs the technologies I am familiar with, I am a fast learner and can easily pick up languages and frameworks quickly and would be happy to acquire new skills and knowledge. I am interested in full-stack positions, particularly when they deal with things like big data, data visualization, and data science.
