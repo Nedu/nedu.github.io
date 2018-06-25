@@ -1,0 +1,71 @@
+.resumePage{
+    background-color: #D7C69F;
+}
+
+.resume {
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.info {
+    font-weight: bold;
+}
+
+h1 {
+    line-height: 1;
+    font-size: 3em;
+}
+
+.resume__contact, .resume__profile, .resume__projects, .resume__techskills {
+    margin-bottom: 75px;
+}
+
+.project, .education {
+    padding-bottom: 10px;
+}
+
+@media(min-width: 600px) {
+    .resume {
+        max-width: 900px;
+        width: 100%;
+    }
+
+    h1 {
+        line-height: 0.5;
+        font-size: 2em;
+    }
+
+    .resume__contact, .resume__profile, .resume__projects, .resume__techskills, .resume__education {
+       display: flex;
+    }
+
+    .resume__contact--name {
+        flex-grow: 2;
+    }
+
+    .resume__profile--name, .resume__projects--name, .resume__techskills--name, .resume__education--name {
+        flex-grow: 2;
+        margin-right: 5%;
+    }
+
+    .resume__profile--info, .resume__projects--info, .resume__techskills--info, .resume__education--info {
+        width: 65%;
+    }
+
+    .resume__profile {
+        display: flex;
+    }
+}
+
+@media(min-width: 900px) {
+    .resume {
+        max-width: 900px;
+        width: 100%;
+    }
+    
+    .resume__contact--info {
+        width: 65%;
+    }
+}
