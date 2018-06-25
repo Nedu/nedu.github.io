@@ -5,24 +5,23 @@
     max-width: 100%;
     padding: 0;
     height: 100vh;
-    width: 100vw;
+	width: 100vw;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
 }
 
 .intro__text {
 	font-family: 'Lato', sans-serif;
 	text-align: center;
-	margin: 0 auto;
 	text-transform: uppercase;
-	padding: 12% 0 0;
 	color: #FFF;
-	vertical-align: middle;
 }
 
-hr {
+.home hr {
 	border-top: 1px solid #FFF;
 	border-bottom: 1px solid #FFF;
 	width: 23em;
-    margin-left: 35%;
   	border-width: 1px 0 0 0; 
   	border-radius: 20px; 
 } 
