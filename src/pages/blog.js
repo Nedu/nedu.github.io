@@ -1,22 +1,20 @@
 import React from 'react'
 import Link from 'gatsby-link'
-// import '../styles/index.css'
+import '../styles/blog.css'
 
 const BlogPage = ({data}) => (
-  <div>
-    <h1>Latest Posts</h1>
-    {data.allMarkdownRemark.edges.map(post => (
-        <div key={ post.node.id }>
-            <h3>{ post.node.frontmatter.title }</h3>
-            <small>Posted by { post.node.frontmatter.author } on { post.node.frontmatter.date }</small>
-            <br/>
-            <br/>
-            <Link to={post.node.frontmatter.path}>Read More</Link>
-            <br/>
-            <br/>
-            <hr/>
-        </div>
-    ))}
+  <div className="blogPage">
+    <div className="blog">
+        {data.allMarkdownRemark.edges.map(post => (
+            <div key={ post.node.id } className="blogPost">
+                <h3>{ post.node.frontmatter.title }</h3>
+                <small>Posted by { post.node.frontmatter.author } on { post.node.frontmatter.date }</small>
+                <hr />
+                <p>{post.node.excerpt}</p>
+                <Link className="skilltag demo" to={post.node.frontmatter.path}>Read More</Link>
+            </div>
+        ))}
+    </div>
   </div>
 )
 
@@ -25,6 +23,7 @@ export const pageQuery = graphql`
         allMarkdownRemark {
             edges {
                 node {
+                    excerpt(pruneLength: 100)
                     id
                     frontmatter {
                         path
