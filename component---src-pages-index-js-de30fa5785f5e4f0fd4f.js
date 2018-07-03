@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{204:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=l(1),n=u(a),r=l(15);u(r);l(300);var c=function(){return n.default.createElement("div",{className:"home"},n.default.createElement("div",{className:"intro__text"},n.default.createElement("h1",null,"Nedu Robert"),n.default.createElement("hr",null),n.default.createElement("h2",null,"Full Stack Developer")))};t.default=c,e.exports=t.default},300:function(e,t){}});
+//# sourceMappingURL=component---src-pages-index-js-de30fa5785f5e4f0fd4f.js.map
