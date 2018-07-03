@@ -26,6 +26,22 @@ h1 {
     padding-bottom: 10px;
 }
 
+.project {
+    margin-bottom: 1em;
+}
+
+.project:last-child {
+    margin-bottom: 0;
+}
+
+.project div {
+    padding-bottom: 0.2em;
+}
+
+.project-info {
+    margin-bottom: 1em;
+}
+
 @media(min-width: 600px) {
     .resume {
         max-width: 900px;
