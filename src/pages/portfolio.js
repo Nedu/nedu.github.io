@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 
 import '../styles/portfolio.css'
 import tribute from '../images/tribute.png'
+import lambdanotes from '../images/lambdanotes.png'
 import imgGallery from '../images/imggallery.png'
 import landingPage from '../images/landingpage.png'
 import color from '../images/color.png'
@@ -11,6 +12,36 @@ import RQG from '../images/RQG.png'
 
 const PortfolioPage = () => (
   <div className="portfolio">
+    <div className="portfolio__project">
+      <div className="portfolio__project-demo">
+        <img src={lambdanotes} alt="lambda notes web app screenshot" />
+      </div>
+      <div className="portfolio__project-description">
+        <h3>Lambda notes web app</h3>
+        <p>A full stack note taking web application that enables authenticated users to view, create, update and delete notes.</p>
+        <p>
+          <span className="skilltag">JavaScript </span>
+          <span className="skilltag">React </span>
+          <span className="skilltag">Node </span>
+          <span className="skilltag">Express </span>
+          <span className="skilltag">MongoDB</span>
+        </p>
+        <a
+          className="skilltag demo"
+          href="https://github.com/Nedu/lambdanotes"
+          target="_blank"
+        >
+          GitHub
+        </a>
+        <a
+          className="skilltag demo"
+          href="https://lambda-notes-app.netlify.com/notes"
+          target="_blank"
+        >
+          View Live
+        </a>
+      </div>
+    </div>
     <div className="portfolio__project">
       <div className="portfolio__project-demo">
         <img src={tribute} alt="tribute webpage screenshot" />
