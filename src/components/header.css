@@ -13,11 +13,11 @@
   color: #FFF;
   text-decoration: none;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 .Navbar__Link:hover {
-  font-size: 1.2em;
+  color: #ADD8E6;
 }
 
 .Navbar__Icon {

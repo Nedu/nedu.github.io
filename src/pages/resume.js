@@ -32,26 +32,27 @@ const ResumePage = () => (
         <div className="resume__projects">
             <div className="resume__projects--name">
                 <h1>Projects</h1>
-            </div>
+            </div>                
             <div className="resume__projects--info">
+                <div className="project">
+                    <div className="project-info">
+                        <div><span className="info">Closet Roulette </span></div>
+                        <div><a href="https://lambda-outfit-creator.herokuapp.com">https://lambda-outfit-creator.herokuapp.com</a></div>
+                    </div>
+                    <div>Full Stack Developer on a team of five that built a digital closet that enables users to upload images of their outfits and transforms them into virtual attire.</div>
+                    <div>Utilized the MERN stack to build out the web application and used the Stripe API for onlinepayment processing.</div>
+                    <div>Implemented authentication and authorization using token based authentication and OAuth 2.0.</div>
+                    <div>Integrated the SendGrid API for delivering of emails to users.</div>
+                </div>
                 <div className="project">
                     <div className="project-info">
                         <div><span className="info">Lambda Notes</span></div>
                         <div><a href="https://lambda-notes-app.netlify.com/notes">https://lambda-notes-app.netlify.com/notes</a></div>
                     </div>
-                    <div>Built a note taking web application using React to allows authenticated users to view, create, update and delete notes.</div>
-                    <div>Incorporated AJAX while utilizing an API to fetch the notes data.</div>
+                    <div>Built a Full Stack note taking web application using MERN that allows authenticated users to manage their notes.</div>
+                    <div>Incorporated REST architecture and authentication using Express.js, Node.js, Passport and MongoDB to manipulate notes data.</div>
                     <div>Implemented markdown, searching, sorting and exporting functionality.</div>
-                </div>
-                <div className="project">
-                    <div className="project-info">
-                        <div><span className="info">Lambda Notes API</span></div>
-                        <div><a href="https://lambda-notes-app.herokuapp.com/api/v1/notes">https://lambda-notes-app.herokuapp.com/api/v1/notes</a></div>
-                    </div>
-                    <div>Built a RESTful API using Node, Express, and MongoDB that enables authenticated users to  manipulate notes data.</div>
-                    <div>Incorporated REST architecture and authentication using Express.js, Node.js, Passport and MongoDB to manipulate notes data.
-                    </div>
-                </div>
+                </div>                
                 <div className="project">
                     <div className="project-info">
                         <div><span className="info">Random Quote Generator</span></div>
@@ -76,26 +77,11 @@ const ResumePage = () => (
                 <h1>Skills</h1>
             </div>
             <div className="resume__techskills--info">
-                <div><span className="info">Programming Languages: </span>JavaScript</div>
-                <div><span className="info">Frameworks & Libraries:</span> React, Redux, Node.js, Express, Mongoose</div>
-                <div><span className="info">Web Technologies:</span> HTML5, CSS3, AJAX</div>
-                <div><span className="info">Databases:</span> MongoDB, MySQL</div>
+                <div><span className="info">Programming Languages: </span>JavaScript, Python</div>
+                <div><span className="info">Frameworks & Libraries:</span> React, Redux, Node, Express, Mongoose, Django</div>
+                <div><span className="info">Web Technologies:</span> HTML5, CSS3, AJAX, JSON</div>
+                <div><span className="info">Databases:</span> MongoDB, MySQL, SQLite, PostgreSQL</div>
                 <div><span className="info">Tools:</span> Git, Heroku</div>
-            </div>
-        </div>
-        <div className="resume__education">
-            <div className="resume__education--name">
-                <h1>Education</h1>
-            </div>
-            <div className="resume__education--info">
-                <div className="education">
-                    <div className="info">B.A, Economics</div>
-                    <div>University of Waterloo, Canada</div>
-                </div>
-                <div>
-                    <div className="info">Diploma, Information Technology</div>
-                    <div>Trios College</div>
-                </div>
             </div>
         </div>
     </div>
