@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header'
 import './index.css'
+import favIcon from '../images/favicons/favicon-32x32.png'
 
 const Layout = ({ children, data }) => (
   <div>
@@ -12,6 +13,9 @@ const Layout = ({ children, data }) => (
       meta={[
         { name: 'description', content: 'This is a portfolio website and portfolio for Nedu Robert' },
         { name: 'keywords', content: 'portfolio website, fullstack developer, gatsby, react' },
+      ]}
+      link={[
+        { rel: 'shortcut icon', href: `${favIcon}`}
       ]}
     />
     <Header />
