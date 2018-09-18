@@ -66,7 +66,7 @@ const PortfolioPage = () => (
         </a>
         <a
           className="skilltag demo"
-          href="https://lambda-notes-app.netlify.com/notes"
+          href="https://lambda-notes-app.netlify.com/"
           target="_blank"
         >
           View Live
