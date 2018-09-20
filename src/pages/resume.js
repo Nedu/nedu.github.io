@@ -12,10 +12,10 @@ const ResumePage = () => (
                 <h4>Full Stack Developer</h4>
             </div>
             <div className="resume__contact--info">
-            <div><span className="info">Github:</span> nedu</div>
-            <div><span className="info">Email:</span> nedumrobert@gmail.com</div>
-            <div><span className="info">Portfolio:</span> nedu.github.io</div>
-            <div><span className="info">LinkedIn:</span> nedurobert</div>
+                <div><span className="info">Github:</span> <a href="https://github.com/nedu" >https://github.com/nedu</a></div>
+                <div><span className="info">Email:</span> <Link to="/contact">nedumrobert@gmail.com</Link></div>
+                <div><span className="info">Portfolio:</span> nedu.github.io</div>
+                <div><span className="info">LinkedIn:</span> <a href="https://www.linkedin.com/in/nedurobert/">https://www.linkedin.com/in/nedurobert/</a></div>
             </div>
         </div>
         <div className="resume__profile">
@@ -37,7 +37,7 @@ const ResumePage = () => (
                 <div className="project">
                     <div className="project-info">
                         <div><span className="info">Closet Roulette </span></div>
-                        <div><a href="https://lambda-outfit-creator.herokuapp.com">https://lambda-outfit-creator.herokuapp.com</a></div>
+                        <div><a href="https://lambda-outfit-creator.herokuapp.com/">https://lambda-outfit-creator.herokuapp.com/</a></div>
                     </div>
                     <div>Full Stack Developer on a team of five that built a digital closet that enables users to upload images of their outfits and transforms them into virtual attire.</div>
                     <div>Utilized the MERN stack to build out the web application and used the Stripe API for onlinepayment processing.</div>
@@ -47,7 +47,7 @@ const ResumePage = () => (
                 <div className="project">
                     <div className="project-info">
                         <div><span className="info">Lambda Notes</span></div>
-                        <div><a href="https://lambda-notes-app.netlify.com/notes">https://lambda-notes-app.netlify.com/notes</a></div>
+                        <div><a href="https://lambda-notes-app.netlify.com/">https://lambda-notes-app.netlify.com/</a></div>
                     </div>
                     <div>Built a Full Stack note taking web application using MERN that allows authenticated users to manage their notes.</div>
                     <div>Incorporated REST architecture and authentication using Express.js, Node.js, Passport and MongoDB to manipulate notes data.</div>
