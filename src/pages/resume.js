@@ -14,7 +14,7 @@ const ResumePage = () => (
             <div className="resume__contact--info">
                 <div><span className="info">Github:</span> <a href="https://github.com/nedu" >https://github.com/nedu</a></div>
                 <div><span className="info">Email:</span> <Link to="/contact">nedumrobert@gmail.com</Link></div>
-                <div><span className="info">Portfolio:</span> nedu.github.io</div>
+                <div><span className="info">Portfolio:</span> <a href="https://nedu.github.io/">nedu.github.io</a></div>
                 <div><span className="info">LinkedIn:</span> <a href="https://www.linkedin.com/in/nedurobert/">https://www.linkedin.com/in/nedurobert/</a></div>
             </div>
         </div>
