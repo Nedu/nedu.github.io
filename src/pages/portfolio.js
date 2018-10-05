@@ -33,7 +33,7 @@ const PortfolioPage = () => (
         </p>
         <a
           className="skilltag demo"
-          href="https://lambda-outfit-creator.herokuapp.com"
+          href="https://www.closetroulette.com/"
           target="_blank"
         >
           View Live

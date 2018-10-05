@@ -37,7 +37,7 @@ const ResumePage = () => (
                 <div className="project">
                     <div className="project-info">
                         <div><span className="info">Closet Roulette </span></div>
-                        <div><a href="https://lambda-outfit-creator.herokuapp.com/">https://lambda-outfit-creator.herokuapp.com/</a></div>
+                        <div><a href="https://www.closetroulette.com/">https://www.closetroulette.com/</a></div>
                     </div>
                     <div>Full Stack Developer on a team of five that built a digital closet that enables users to upload images of their outfits and transforms them into virtual attire.</div>
                     <div>Utilized the MERN stack to build out the web application and used the Stripe API for onlinepayment processing.</div>
