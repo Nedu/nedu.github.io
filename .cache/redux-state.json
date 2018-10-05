@@ -1,0 +1,1508 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "17d20578928bde343975bb344e148e7d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ec270a540857314f21c05a9b06c8df81",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f3a0cb95d5f0d86771fc62b48228fae2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "898c408de3d4ca21a0ef081d4fd62f04",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5cd1b7a1c803d01626f3b43bf559cd53",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b0118f1761881cf514e226975e129ac6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "12a5f967a7bb5ee73445491480f185db",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "1.0.19",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "1.0.19",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f734dfd8bd8989aefe1df1403214960f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.33",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.33",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "45ed749b4acb3e52b5203a60362348f8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.40",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.40",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "555b25f3ba511b7aed93d14ce8e3d72a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "1b17fed33a41800f536dec52fe5f8b49",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.247"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.40"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^1.0.19"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.33"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.40"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^1.2.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-icons",
+            "version": "^2.2.7"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.12.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "df439ec4185bc591eed09b28951e71c6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Nedu Robert Portfolio"
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-10-05T13:55:42.947Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "19f34b04be883b2dc55e130d3492b333",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1223c2ac1f3441e55ffa83cdbb85a613",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-25T01:25:08.507Z",
+      "accessTime": "2018-10-05T11:54:37.745Z",
+      "changeTime": "2018-06-25T01:25:08.507Z",
+      "birthTime": "2018-06-25T01:25:08.507Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 2049,
+      "mode": 16893,
+      "nlink": 4,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9983543,
+      "blocks": 8,
+      "atimeMs": 1538740477745.282,
+      "mtimeMs": 1529889908507.4543,
+      "ctimeMs": 1529889908507.4543,
+      "birthtimeMs": 1529889908507.4543,
+      "atime": "2018-10-05T11:54:37.745Z",
+      "mtime": "2018-06-25T01:25:08.507Z",
+      "ctime": "2018-06-25T01:25:08.507Z",
+      "birthtime": "2018-06-25T01:25:08.507Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1452feb84c525e043bff5b86f50a7d30",
+        "type": "Directory",
+        "description": "Directory \"src/pages/2018-01-11-100-Web Projects\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects",
+      "relativePath": "2018-01-11-100-Web Projects",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-04-22T16:12:21.574Z",
+      "accessTime": "2018-10-05T11:54:39.889Z",
+      "changeTime": "2018-06-25T01:25:08.507Z",
+      "birthTime": "2018-06-25T01:25:08.507Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "2018-01-11-100-Web Projects",
+      "ext": "",
+      "name": "2018-01-11-100-Web Projects",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9986716,
+      "blocks": 8,
+      "atimeMs": 1538740479889.282,
+      "mtimeMs": 1524413541574.1912,
+      "ctimeMs": 1529889908507.4543,
+      "birthtimeMs": 1529889908507.4543,
+      "atime": "2018-10-05T11:54:39.889Z",
+      "mtime": "2018-04-22T16:12:21.574Z",
+      "ctime": "2018-06-25T01:25:08.507Z",
+      "birthtime": "2018-06-25T01:25:08.507Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "711ce249729ad71f4750c0ee2a4e28a9",
+        "type": "Directory",
+        "description": "Directory \"src/pages/2018-04-21-post-two\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two",
+      "relativePath": "2018-04-21-post-two",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-04-22T16:22:32.690Z",
+      "accessTime": "2018-10-05T11:54:39.105Z",
+      "changeTime": "2018-04-22T16:22:32.690Z",
+      "birthTime": "2018-04-22T16:22:32.690Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "2018-04-21-post-two",
+      "ext": "",
+      "name": "2018-04-21-post-two",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9994315,
+      "blocks": 8,
+      "atimeMs": 1538740479105.282,
+      "mtimeMs": 1524414152690.2454,
+      "ctimeMs": 1524414152690.2454,
+      "birthtimeMs": 1524414152690.2454,
+      "atime": "2018-10-05T11:54:39.105Z",
+      "mtime": "2018-04-22T16:22:32.690Z",
+      "ctime": "2018-04-22T16:22:32.690Z",
+      "birthtime": "2018-04-22T16:22:32.690Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/404.js absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-04-19T10:46:17.282Z",
+      "accessTime": "2018-10-05T12:30:41.426Z",
+      "changeTime": "2018-04-19T10:46:17.282Z",
+      "birthTime": "2018-04-19T10:46:17.282Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9983544,
+      "blocks": 8,
+      "atimeMs": 1538742641425.538,
+      "mtimeMs": 1524134777282.0164,
+      "ctimeMs": 1524134777282.0164,
+      "birthtimeMs": 1524134777282.0164,
+      "atime": "2018-10-05T12:30:41.426Z",
+      "mtime": "2018-04-19T10:46:17.282Z",
+      "ctime": "2018-04-19T10:46:17.282Z",
+      "birthtime": "2018-04-19T10:46:17.282Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/page-2.js absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/page-2.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eda91bb7e277753793f385583265fbf5",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/page-2.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/page-2.js",
+      "relativePath": "page-2.js",
+      "extension": "js",
+      "size": 245,
+      "prettySize": "245 B",
+      "modifiedTime": "2018-04-19T10:46:17.282Z",
+      "accessTime": "2018-10-05T12:30:41.545Z",
+      "changeTime": "2018-04-19T10:46:17.282Z",
+      "birthTime": "2018-04-19T10:46:17.282Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "page-2.js",
+      "ext": ".js",
+      "name": "page-2",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9983546,
+      "blocks": 8,
+      "atimeMs": 1538742641545.4783,
+      "mtimeMs": 1524134777282.0164,
+      "ctimeMs": 1524134777282.0164,
+      "birthtimeMs": 1524134777282.0164,
+      "atime": "2018-10-05T12:30:41.545Z",
+      "mtime": "2018-04-19T10:46:17.282Z",
+      "ctime": "2018-04-19T10:46:17.282Z",
+      "birthtime": "2018-04-19T10:46:17.282Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/portfolio.js absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/portfolio.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e10fd26c908a57bffdc5df7ae718c0c8",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/portfolio.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/portfolio.js",
+      "relativePath": "portfolio.js",
+      "extension": "js",
+      "size": 8386,
+      "prettySize": "8.39 kB",
+      "modifiedTime": "2018-10-05T12:18:18.880Z",
+      "accessTime": "2018-10-05T12:30:41.625Z",
+      "changeTime": "2018-10-05T12:18:18.880Z",
+      "birthTime": "2018-10-05T12:18:18.880Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "portfolio.js",
+      "ext": ".js",
+      "name": "portfolio",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9986695,
+      "blocks": 24,
+      "atimeMs": 1538742641625.4382,
+      "mtimeMs": 1538741898880.487,
+      "ctimeMs": 1538741898880.487,
+      "birthtimeMs": 1538741898880.487,
+      "atime": "2018-10-05T12:30:41.625Z",
+      "mtime": "2018-10-05T12:18:18.880Z",
+      "ctime": "2018-10-05T12:18:18.880Z",
+      "birthtime": "2018-10-05T12:18:18.880Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/blog.js absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/blog.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "72d2e86a5ab8cd5095b7c87409744c0d",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/blog.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/blog.js",
+      "relativePath": "blog.js",
+      "extension": "js",
+      "size": 1118,
+      "prettySize": "1.12 kB",
+      "modifiedTime": "2018-06-25T08:37:58.619Z",
+      "accessTime": "2018-10-05T12:30:41.374Z",
+      "changeTime": "2018-06-25T08:37:58.619Z",
+      "birthTime": "2018-06-25T08:37:58.619Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "blog.js",
+      "ext": ".js",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9961913,
+      "blocks": 8,
+      "atimeMs": 1538742641373.5642,
+      "mtimeMs": 1529915878618.5408,
+      "ctimeMs": 1529915878618.5408,
+      "birthtimeMs": 1529915878618.5408,
+      "atime": "2018-10-05T12:30:41.374Z",
+      "mtime": "2018-06-25T08:37:58.619Z",
+      "ctime": "2018-06-25T08:37:58.619Z",
+      "birthtime": "2018-06-25T08:37:58.619Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file",
+      "children": [
+        "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c719bea1c676a045abfe0e70ae31c7f1",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/2018-01-11-100-Web Projects/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md",
+      "relativePath": "2018-01-11-100-Web Projects/index.md",
+      "extension": "md",
+      "size": 490,
+      "prettySize": "490 B",
+      "modifiedTime": "2018-06-25T01:30:38.724Z",
+      "accessTime": "2018-10-05T12:30:41.913Z",
+      "changeTime": "2018-06-25T01:30:38.724Z",
+      "birthTime": "2018-06-25T01:30:38.724Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-01-11-100-Web Projects",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9994298,
+      "blocks": 8,
+      "atimeMs": 1538742641913.2942,
+      "mtimeMs": 1529890238723.5771,
+      "ctimeMs": 1529890238723.5771,
+      "birthtimeMs": 1529890238723.5771,
+      "atime": "2018-10-05T12:30:41.913Z",
+      "mtime": "2018-06-25T01:30:38.724Z",
+      "ctime": "2018-06-25T01:30:38.724Z",
+      "birthtime": "2018-06-25T01:30:38.724Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file",
+      "children": [
+        "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7585b64d8fff48812bd2c2a48af4714a",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/2018-04-21-post-two/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md",
+      "relativePath": "2018-04-21-post-two/index.md",
+      "extension": "md",
+      "size": 137,
+      "prettySize": "137 B",
+      "modifiedTime": "2018-04-22T16:23:15.429Z",
+      "accessTime": "2018-10-05T12:30:41.917Z",
+      "changeTime": "2018-04-22T16:23:15.429Z",
+      "birthTime": "2018-04-22T16:23:15.429Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-04-21-post-two",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9994343,
+      "blocks": 8,
+      "atimeMs": 1538742641917.2922,
+      "mtimeMs": 1524414195429.4932,
+      "ctimeMs": 1524414195429.4932,
+      "birthtimeMs": 1524414195429.4932,
+      "atime": "2018-10-05T12:30:41.917Z",
+      "mtime": "2018-04-22T16:23:15.429Z",
+      "ctime": "2018-04-22T16:23:15.429Z",
+      "birthtime": "2018-04-22T16:23:15.429Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/contact.js absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/contact.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "590e547b8f24311f45c6ac0e7b07d7bc",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/contact.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/contact.js",
+      "relativePath": "contact.js",
+      "extension": "js",
+      "size": 2163,
+      "prettySize": "2.16 kB",
+      "modifiedTime": "2018-06-25T01:02:13.179Z",
+      "accessTime": "2018-10-05T12:30:41.398Z",
+      "changeTime": "2018-06-25T01:02:13.179Z",
+      "birthTime": "2018-06-25T01:02:13.179Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "contact.js",
+      "ext": ".js",
+      "name": "contact",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9961970,
+      "blocks": 8,
+      "atimeMs": 1538742641397.5522,
+      "mtimeMs": 1529888533179.1663,
+      "ctimeMs": 1529888533179.1663,
+      "birthtimeMs": 1529888533179.1663,
+      "atime": "2018-10-05T12:30:41.398Z",
+      "mtime": "2018-06-25T01:02:13.179Z",
+      "ctime": "2018-06-25T01:02:13.179Z",
+      "birthtime": "2018-06-25T01:02:13.179Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/index.js absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "525e9cbe335e9d2240f461f6bf5aee68",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 307,
+      "prettySize": "307 B",
+      "modifiedTime": "2018-04-21T23:35:51.863Z",
+      "accessTime": "2018-10-05T12:30:41.410Z",
+      "changeTime": "2018-04-21T23:35:51.863Z",
+      "birthTime": "2018-04-21T23:35:51.863Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9983545,
+      "blocks": 8,
+      "atimeMs": 1538742641409.5461,
+      "mtimeMs": 1524353751863.395,
+      "ctimeMs": 1524353751863.395,
+      "birthtimeMs": 1524353751863.395,
+      "atime": "2018-10-05T12:30:41.410Z",
+      "mtime": "2018-04-21T23:35:51.863Z",
+      "ctime": "2018-04-21T23:35:51.863Z",
+      "birthtime": "2018-04-21T23:35:51.863Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/resume.js absPath of file": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/resume.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f4d22b82909f0042cfd3c67299942802",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/resume.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/resume.js",
+      "relativePath": "resume.js",
+      "extension": "js",
+      "size": 5554,
+      "prettySize": "5.55 kB",
+      "modifiedTime": "2018-10-05T12:18:15.101Z",
+      "accessTime": "2018-10-05T12:30:41.733Z",
+      "changeTime": "2018-10-05T12:18:15.101Z",
+      "birthTime": "2018-10-05T12:18:15.101Z",
+      "root": "/",
+      "dir": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages",
+      "base": "resume.js",
+      "ext": ".js",
+      "name": "resume",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 9961915,
+      "blocks": 16,
+      "atimeMs": 1538742641733.3843,
+      "mtimeMs": 1538741895100.5427,
+      "ctimeMs": 1538741895100.5427,
+      "birthtimeMs": 1538741895100.5427,
+      "atime": "2018-10-05T12:30:41.733Z",
+      "mtime": "2018-10-05T12:18:15.101Z",
+      "ctime": "2018-10-05T12:18:15.101Z",
+      "birthtime": "2018-10-05T12:18:15.101Z"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/100-web-projects\"\ndate: \"2018-01-11\"\ntitle: \"100 Web Projects\"\nauthor: \"Nedu Robert\"\n---\n\nAt the beginning of this year I resolved that I was going to be building 100 web projects of varying degrees of difficulty to showcase my development skills.\n\n![It's go time gif](https://cdn-images-1.medium.com/max/800/1*quVkuI0ndTV7_IJNkS-T1A.gif)\n\nI will be using this post to showcase / track my progress.\n\n1. [Random Quote Generator (RQG)](https://nedu.github.io/RQG/)\n2. Coming Soon.",
+        "type": "MarkdownRemark",
+        "contentDigest": "2b13756b3c5758d74adbdd1738c26149",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "100 Web Projects",
+        "path": "/100-web-projects",
+        "date": "2018-01-11",
+        "author": "Nedu Robert",
+        "_PARENT": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file",
+        "parent": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md"
+    },
+    "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/post-two\"\ndate: \"2018-04-21\"\ntitle: \"My Second Gatsby Post\"\nauthor: \"Nedu Robert\"\n---\n\nThis is my second blog post in Gatsby.",
+        "type": "MarkdownRemark",
+        "contentDigest": "1c232a3607ed536347a6a1e8ee7af3d1",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Second Gatsby Post",
+        "path": "/post-two",
+        "date": "2018-04-21",
+        "author": "Nedu Robert",
+        "_PARENT": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file",
+        "parent": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md"
+    },
+    "SitePage /100-web-projects": {
+      "layout": "index",
+      "jsonName": "100-web-projects.json",
+      "internalComponentName": "Component100WebProjects",
+      "path": "/100-web-projects",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/templates/blog-post.js",
+      "id": "SitePage /100-web-projects",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "51b7639f7ba556450fefb259d87a30a6",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-two": {
+      "layout": "index",
+      "jsonName": "post-two.json",
+      "internalComponentName": "ComponentPostTwo",
+      "path": "/post-two",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/templates/blog-post.js",
+      "id": "SitePage /post-two",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "df742b58ef0e89c903fe40ceef430a03",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "311d323be46d989144df52e1e117fa42",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "layout": "index",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "58c3f6d53c2c708bcbb944cd502d035b",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "df9dfa3b6880a4c719df33e03354fbc9",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "541ba5ef317f1a8312a9c1a2752358dd",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "79e809dedf854267d36e3a57fa6b49a3",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /portfolio/": {
+      "layout": "index",
+      "jsonName": "portfolio.json",
+      "internalComponentName": "ComponentPortfolio",
+      "path": "/portfolio/",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/portfolio.js",
+      "componentChunkName": "component---src-pages-portfolio-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/portfolio.js",
+      "id": "SitePage /portfolio/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "df8efc503cb4a569d8e70896be86b5a1",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /resume/": {
+      "layout": "index",
+      "jsonName": "resume.json",
+      "internalComponentName": "ComponentResume",
+      "path": "/resume/",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/resume.js",
+      "componentChunkName": "component---src-pages-resume-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/resume.js",
+      "id": "SitePage /resume/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0c7b76f59d2abdfcda0a8ee27b56e3ef",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1794c7e85e634b302f2dde5e20b9f6f",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "edc68c7d53e32a17851b70d25cdf828b"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-04-21-post-two/index.md absPath of file >>> MarkdownRemark": [
+        "/post-two"
+      ],
+      "/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/src/pages/2018-01-11-100-Web Projects/index.md absPath of file >>> MarkdownRemark": [
+        "/100-web-projects"
+      ],
+      "Site": [
+        "LAYOUT___index"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/blog/"
+      ]
+    }
+  }
+}
