@@ -8,7 +8,7 @@ const ResumePage = () => (
     <div className="resume">
         <div className="resume__contact">
             <div className="resume__contact--name">
-                <h1>Nedu Robert</h1>
+                <h1 className="resume__heading">Nedu Robert</h1>
                 <h4>Full Stack Developer</h4>
             </div>
             <div className="resume__contact--info">
@@ -20,7 +20,7 @@ const ResumePage = () => (
         </div>
         <div className="resume__profile">
             <div className="resume__profile--name">
-            <h1>Profile</h1>
+            <h1 className="resume__heading">Profile</h1>
             </div>
             <div className="resume__profile--info">
             <div>Highly motivated and demonstrated Full-Stack Developer.</div>
@@ -31,7 +31,7 @@ const ResumePage = () => (
         </div>
         <div className="resume__projects">
             <div className="resume__projects--name">
-                <h1>Projects</h1>
+                <h1 className="resume__heading">Projects</h1>
             </div>                
             <div className="resume__projects--info">
                 <div className="project">
@@ -74,7 +74,7 @@ const ResumePage = () => (
         </div>
         <div className="resume__techskills">
             <div className="resume__techskills--name">
-                <h1>Skills</h1>
+                <h1 className="resume__heading">Skills</h1>
             </div>
             <div className="resume__techskills--info">
                 <div><span className="info">Programming Languages: </span>JavaScript, Python</div>
