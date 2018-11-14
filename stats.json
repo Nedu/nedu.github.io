@@ -24,10 +24,6 @@
       "component---src-layouts-index-js-38f18d873dc6fc3d9852.js",
       "component---src-layouts-index-js-38f18d873dc6fc3d9852.js.map"
     ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
@@ -66,19 +62,15 @@
       "path---resume-a0e39f21c11f6a62c5ab.js",
       "path---resume-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
-    ],
     "app": [
-      "app-f71f9db857f8d63db7c9.js",
+      "app-bf39213dff1ecdcbf1a8.js",
       "build-js-styles.css",
-      "app-f71f9db857f8d63db7c9.js.map",
+      "app-bf39213dff1ecdcbf1a8.js.map",
       "build-js-styles.css.map"
     ],
     "path---converting-from-a-truth-table-to-a-boolean-expression": [
-      "path---converting-from-a-truth-table-to-a-boolean-expression-36da2ee11f4ace652b20.js",
-      "path---converting-from-a-truth-table-to-a-boolean-expression-36da2ee11f4ace652b20.js.map"
+      "path---converting-from-a-truth-table-to-a-boolean-expression-9cd708294c11461ce886.js",
+      "path---converting-from-a-truth-table-to-a-boolean-expression-9cd708294c11461ce886.js.map"
     ],
     "component---src-pages-portfolio-js": [
       "component---src-pages-portfolio-js-03207f5dd4c6157f31e8.js",
