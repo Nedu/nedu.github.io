@@ -7,7 +7,7 @@ author: "Nedu Robert"
 
 Given a truth table representation of a Boolean function, it is quite possible to derive the Boolean expression for that function. Focusing on all rows in the truth table where the output is 1, determine the expression for that single row that makes only that row output 1 and then Or together all expressions you have determined to give you the Boolean expression.
 
-An example illustrating this is as follows, Given the following truth table, we are going to derive it`s Boolean expression.
+An example illustrating this is as follows, Given the following truth table, we are going to derive it's Boolean expression.
 
 | x | y | z | output |
 | --|:-:| -:| -----: |
