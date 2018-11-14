@@ -1,5 +1,5 @@
 var plugins = [{
-      plugin: require('/home/nedu/Desktop/WebDev/Portfolio Website/nedu.github.io/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('/mnt/c/Users/Chinedum/Desktop/Lambda/Portfolio/nedu.github.io/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks

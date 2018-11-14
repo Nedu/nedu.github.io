@@ -10,8 +10,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "post-two.json",
-        "path": "/post-two"
+        "jsonName": "converting-from-a-truth-table-to-a-boolean-expression.json",
+        "path": "/converting-from-a-truth-table-to-a-boolean-expression"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
