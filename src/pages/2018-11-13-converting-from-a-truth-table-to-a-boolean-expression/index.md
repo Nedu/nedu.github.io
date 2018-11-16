@@ -1,7 +1,7 @@
 ---
 path: "/converting-from-a-truth-table-to-a-boolean-expression"
 date: "2018-11-13"
-title: "Converting from a truth table to a Boolean Expression"
+title: "How to Convert from a Truth Table to a Boolean Expression"
 author: "Nedu Robert"
 ---
 
