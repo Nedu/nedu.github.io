@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f56f2c5699b3bfa8465c62e472e7fca5",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -783,16 +773,14 @@
       "siteMetadata": {
         "title": "Nedu Robert Portfolio"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-13T09:54:42.806Z",
+      "buildTime": "2019-05-13T11:14:53.274Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "932066da19789a06142a9a4ef8b4e936",
+        "contentDigest": "c847a8a98a42d6db976a28a5910ed4f4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -802,7 +790,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "94e66c63df659e7588f3051ca7249bbe",
+        "contentDigest": "3c098422a204ea219b9b3b4dad0efe81",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -814,7 +802,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-04-02T12:05:48.942Z",
-      "accessTime": "2019-05-13T09:54:47.591Z",
+      "accessTime": "2019-05-13T11:14:57.285Z",
       "changeTime": "2019-04-02T12:05:48.942Z",
       "birthTime": "2019-04-02T12:05:48.940Z",
       "root": "/",
@@ -832,11 +820,11 @@
       "blksize": 4096,
       "ino": 13580202,
       "blocks": 0,
-      "atimeMs": 1557741287591.3186,
+      "atimeMs": 1557746097284.7761,
       "mtimeMs": 1554206748941.5635,
       "ctimeMs": 1554206748941.5635,
       "birthtimeMs": 1554206748940.263,
-      "atime": "2019-05-13T09:54:47.591Z",
+      "atime": "2019-05-13T11:14:57.285Z",
       "mtime": "2019-04-02T12:05:48.942Z",
       "ctime": "2019-04-02T12:05:48.942Z",
       "birthtime": "2019-04-02T12:05:48.940Z"
@@ -846,7 +834,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "67139d7c8791a9b4d0ddf27375c40203",
+        "contentDigest": "d151807b61b475cb8ad2a06e6ec05d25",
         "type": "Directory",
         "description": "Directory \"src/pages/2018-11-13-converting-from-a-truth-table-to-a-boolean-expression\"",
         "owner": "gatsby-source-filesystem"
@@ -858,7 +846,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-04-02T12:05:48.940Z",
-      "accessTime": "2019-05-13T09:54:47.596Z",
+      "accessTime": "2019-05-13T11:14:57.289Z",
       "changeTime": "2019-04-02T12:05:48.940Z",
       "birthTime": "2019-04-02T12:05:48.940Z",
       "root": "/",
@@ -876,11 +864,11 @@
       "blksize": 4096,
       "ino": 13580203,
       "blocks": 0,
-      "atimeMs": 1557741287596.2449,
+      "atimeMs": 1557746097289.1748,
       "mtimeMs": 1554206748940.3787,
       "ctimeMs": 1554206748940.3787,
       "birthtimeMs": 1554206748940.3135,
-      "atime": "2019-05-13T09:54:47.596Z",
+      "atime": "2019-05-13T11:14:57.289Z",
       "mtime": "2019-04-02T12:05:48.940Z",
       "ctime": "2019-04-02T12:05:48.940Z",
       "birthtime": "2019-04-02T12:05:48.940Z"
@@ -1202,174 +1190,6 @@
       "ctime": "2019-05-13T11:11:47.841Z",
       "birthtime": "2019-04-02T12:05:48.940Z"
     },
-    "SitePage /converting-from-a-truth-table-to-a-boolean-expression": {
-      "layout": "index",
-      "jsonName": "converting-from-a-truth-table-to-a-boolean-expression.json",
-      "internalComponentName": "ComponentConvertingFromATruthTableToABooleanExpression",
-      "path": "/converting-from-a-truth-table-to-a-boolean-expression",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/templates/blog-post.js",
-      "id": "SitePage /converting-from-a-truth-table-to-a-boolean-expression",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9588afcfcc7e4108f1000a97f873b4fd",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9ab295cba9f67a0707e0175343bfc0a3",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/": {
-      "layout": "index",
-      "jsonName": "blog.json",
-      "internalComponentName": "ComponentBlog",
-      "path": "/blog/",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/blog.js",
-      "componentChunkName": "component---src-pages-blog-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/blog.js",
-      "id": "SitePage /blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f873e20280057d3d97379bd27988439b",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/contact.js",
-      "componentChunkName": "component---src-pages-contact-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/contact.js",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "14aba0980a3324f4f2c3b6024ff45925",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "76dcaf7db1c9cd9d734f7a9ebb97ab18",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /portfolio/": {
-      "layout": "index",
-      "jsonName": "portfolio.json",
-      "internalComponentName": "ComponentPortfolio",
-      "path": "/portfolio/",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/portfolio.js",
-      "componentChunkName": "component---src-pages-portfolio-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/portfolio.js",
-      "id": "SitePage /portfolio/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c1fff29dcc53316332ae21a367868979",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /resume/": {
-      "layout": "index",
-      "jsonName": "resume.json",
-      "internalComponentName": "ComponentResume",
-      "path": "/resume/",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/resume.js",
-      "componentChunkName": "component---src-pages-resume-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/resume.js",
-      "id": "SitePage /resume/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "95452459bf670fb809d71a3471deb30b",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f7bc82a11044ef8c47571031dfe30b49",
-        "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/2018-11-13-converting-from-a-truth-table-to-a-boolean-expression/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/2018-11-13-converting-from-a-truth-table-to-a-boolean-expression/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1390,6 +1210,174 @@
       },
       "excerpt": "",
       "fileAbsolutePath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/2018-11-13-converting-from-a-truth-table-to-a-boolean-expression/index.md"
+    },
+    "SitePage /converting-from-a-truth-table-to-a-boolean-expression": {
+      "layout": "index",
+      "jsonName": "converting-from-a-truth-table-to-a-boolean-expression.json",
+      "internalComponentName": "ComponentConvertingFromATruthTableToABooleanExpression",
+      "path": "/converting-from-a-truth-table-to-a-boolean-expression",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/templates/blog-post.js",
+      "id": "SitePage /converting-from-a-truth-table-to-a-boolean-expression",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "89faa12259dc8fe42bad16211104e4fe",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ed87a5e9ba1341f2323362704bb54c56",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "layout": "index",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bf9dfbb257863e10489917e036b82a83",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "85fdcc4d5f63435b20162f46813dd1cf",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "167460b92c885abef17769e4a990744e",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /portfolio/": {
+      "layout": "index",
+      "jsonName": "portfolio.json",
+      "internalComponentName": "ComponentPortfolio",
+      "path": "/portfolio/",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/portfolio.js",
+      "componentChunkName": "component---src-pages-portfolio-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/portfolio.js",
+      "id": "SitePage /portfolio/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "62711f1cd15d79056d0aade869978ef3",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /resume/": {
+      "layout": "index",
+      "jsonName": "resume.json",
+      "internalComponentName": "ComponentResume",
+      "path": "/resume/",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/resume.js",
+      "componentChunkName": "component---src-pages-resume-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/resume.js",
+      "id": "SitePage /resume/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ad9953068e406c6d30ece096045a8060",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/nedurobert/Documents/SE/personal portfolio/nedu.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3a1f47565204bb792ac9febc959ef3f5",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
