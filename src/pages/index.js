@@ -7,7 +7,7 @@ const IndexPage = () => (
       <div className="intro__text">
         <h1>Nedu Robert</h1>
         <hr/>
-        <h2>Full Stack Developer</h2>
+        <h2>Software Developer</h2>
       </div>
 		</div>
 )
