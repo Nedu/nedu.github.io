@@ -2988,15 +2988,9 @@ fastparse@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.1.tgz#d1e2643b38a94d7583b479060e6c4affc94071f8"
 
-faye-websocket@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/faye-websocket/-/faye-websocket-0.10.0.tgz#4e492f8d04dfb6f89003507f6edbf2d501e7c6f4"
-  dependencies:
-    websocket-driver ">=0.5.1"
-
-faye-websocket@~0.11.0:
-  version "0.11.3"
-  resolved "https://registry.yarnpkg.com/faye-websocket/-/faye-websocket-0.11.3.tgz#5c0e9a8968e8912c286639fde977a8b209f2508e"
+faye-websocket@^0.11.3, faye-websocket@~0.11.0:
+  version "0.11.4"
+  resolved "https://registry.yarnpkg.com/faye-websocket/-/faye-websocket-0.11.4.tgz#7f0d9275cfdd86a1c963dc8b65fcc451edcbb1da"
   dependencies:
     websocket-driver ">=0.5.1"
 
@@ -7970,11 +7964,12 @@ sockjs-client@1.1.4, sockjs-client@^1.0.3:
     url-parse "^1.1.8"
 
 sockjs@^0.3.15:
-  version "0.3.19"
-  resolved "https://registry.yarnpkg.com/sockjs/-/sockjs-0.3.19.tgz#d976bbe800af7bd20ae08598d582393508993c0d"
+  version "0.3.21"
+  resolved "https://registry.yarnpkg.com/sockjs/-/sockjs-0.3.21.tgz#b34ffb98e796930b60a0cfa11904d6a339a7d417"
   dependencies:
-    faye-websocket "^0.10.0"
-    uuid "^3.0.1"
+    faye-websocket "^0.11.3"
+    uuid "^3.4.0"
+    websocket-driver "^0.7.4"
 
 sort-keys@^1.0.0:
   version "1.1.2"
@@ -8847,9 +8842,9 @@ utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
 
-uuid@^3.0.0, uuid@^3.0.1, uuid@^3.1.0:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.2.1.tgz#12c528bb9d58d0b9265d9a2f6f0fe8be17ff1f14"
+uuid@^3.0.0, uuid@^3.1.0, uuid@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
 
 v8-compile-cache@^1.1.0:
   version "1.1.2"
@@ -9065,7 +9060,7 @@ webpack@^1.13.3:
     watchpack "^0.2.1"
     webpack-core "~0.6.9"
 
-websocket-driver@>=0.5.1:
+websocket-driver@>=0.5.1, websocket-driver@^0.7.4:
   version "0.7.4"
   resolved "https://registry.yarnpkg.com/websocket-driver/-/websocket-driver-0.7.4.tgz#89ad5295bbf64b480abcba31e4953aca706f5760"
   dependencies:
