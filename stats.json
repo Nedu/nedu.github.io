@@ -5,8 +5,8 @@
       "component---src-pages-index-js-c43981a3063306fd80e1.js.map"
     ],
     "path---blog": [
-      "path---blog-8ca7810733621bb8e26c.js",
-      "path---blog-8ca7810733621bb8e26c.js.map"
+      "path---blog-3057b0f0222d6f08d82a.js",
+      "path---blog-3057b0f0222d6f08d82a.js.map"
     ],
     "path---": [
       "path----d54c4f0e6ed108ee53bf.js",
@@ -54,6 +54,10 @@
       "path---portfolio-a0e39f21c11f6a62c5ab.js",
       "path---portfolio-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---intro-to-react-query": [
+      "path---intro-to-react-query-7ccc1520b12591f9f704.js",
+      "path---intro-to-react-query-7ccc1520b12591f9f704.js.map"
+    ],
     "component---src-pages-blog-js": [
       "component---src-pages-blog-js-00f47789d51c4aac58fe.js",
       "component---src-pages-blog-js-00f47789d51c4aac58fe.js.map"
@@ -63,9 +67,9 @@
       "path---resume-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-be4970d057db42b41e07.js",
+      "app-8a4a3ab4c5cf268c98b3.js",
       "build-js-styles.css",
-      "app-be4970d057db42b41e07.js.map",
+      "app-8a4a3ab4c5cf268c98b3.js.map",
       "build-js-styles.css.map"
     ],
     "path---converting-from-a-truth-table-to-a-boolean-expression": [
