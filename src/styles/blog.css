@@ -27,13 +27,13 @@
 
 @media(min-width: 600px) {
     .blog {
-        width: 500px;
+        width: 75%;
         padding: 5%;
     }
 }
 
 @media(min-width: 900px) {
     .blog {
-        width: 580px;
+        width: 50%;
     }
 }
