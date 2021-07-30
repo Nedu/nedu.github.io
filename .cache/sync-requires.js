@@ -8,7 +8,6 @@ exports.layouts = {
 
 exports.components = {
   "component---src-templates-blog-post-js": preferDefault(require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js")),
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js")),
   "component---src-pages-blog-js": preferDefault(require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/blog.js")),
   "component---src-pages-contact-js": preferDefault(require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/contact.js")),
@@ -21,7 +20,6 @@ exports.json = {
   "layout-index.json": require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/json/layout-index.json"),
   "converting-from-a-truth-table-to-a-boolean-expression.json": require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/json/converting-from-a-truth-table-to-a-boolean-expression.json"),
   "intro-to-react-query.json": require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/json/intro-to-react-query.json"),
-  "dev-404-page.json": require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/json/dev-404-page.json"),
   "404.json": require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/json/404.json"),
   "blog.json": require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/json/blog.json"),
   "contact.json": require("/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/json/contact.json"),

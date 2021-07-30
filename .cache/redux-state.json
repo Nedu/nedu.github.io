@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "44e9d1b368fd9d1910e34f782483a786",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -783,16 +773,14 @@
       "siteMetadata": {
         "title": "Nedu Robert Portfolio"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2021-07-30T13:03:52.906Z",
+      "buildTime": "2021-07-30T13:28:40.273Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "723ee7f01ab4d2eaf78c27dbdc8f193d",
+        "contentDigest": "34cdaa756c9cb2457eba2aa5160fa64b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1314,195 +1302,6 @@
       "ctime": "2021-07-30T13:18:32.752Z",
       "birthtime": "2021-07-30T13:01:47.851Z"
     },
-    "SitePage /converting-from-a-truth-table-to-a-boolean-expression": {
-      "layout": "index",
-      "jsonName": "converting-from-a-truth-table-to-a-boolean-expression.json",
-      "internalComponentName": "ComponentConvertingFromATruthTableToABooleanExpression",
-      "path": "/converting-from-a-truth-table-to-a-boolean-expression",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
-      "id": "SitePage /converting-from-a-truth-table-to-a-boolean-expression",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f94ffeb93690794eb8f552c4eb4c24bf",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /intro-to-react-query": {
-      "layout": "index",
-      "jsonName": "intro-to-react-query.json",
-      "internalComponentName": "ComponentIntroToReactQuery",
-      "path": "/intro-to-react-query",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
-      "id": "SitePage /intro-to-react-query",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9812e4041f94d09eb6dbf0db011af2e9",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1b161f141d0dd50422fea2744a86fb00",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/": {
-      "layout": "index",
-      "jsonName": "blog.json",
-      "internalComponentName": "ComponentBlog",
-      "path": "/blog/",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/blog.js",
-      "componentChunkName": "component---src-pages-blog-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/blog.js",
-      "id": "SitePage /blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bbfa7b29a5e7b81be08a242e12515e72",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/contact.js",
-      "componentChunkName": "component---src-pages-contact-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/contact.js",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1e0a567160b0accdc45f3aec0d80fb44",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8ef950abf2a181aecffae49610d4c2f7",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /portfolio/": {
-      "layout": "index",
-      "jsonName": "portfolio.json",
-      "internalComponentName": "ComponentPortfolio",
-      "path": "/portfolio/",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/portfolio.js",
-      "componentChunkName": "component---src-pages-portfolio-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/portfolio.js",
-      "id": "SitePage /portfolio/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2153c60b56be6a0dc8a048ea6ffbb39a",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /resume/": {
-      "layout": "index",
-      "jsonName": "resume.json",
-      "internalComponentName": "ComponentResume",
-      "path": "/resume/",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/resume.js",
-      "componentChunkName": "component---src-pages-resume-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/resume.js",
-      "id": "SitePage /resume/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ebade8e2fb5ebc6ee138e6b17cbb65ae",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "87a23e14e49737fd40f7b64a6ac8b589",
-        "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/2021-07-28-intro-to-react-query/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/2021-07-28-intro-to-react-query/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1523,6 +1322,195 @@
       },
       "excerpt": "",
       "fileAbsolutePath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/2021-07-28-intro-to-react-query/index.md"
+    },
+    "SitePage /converting-from-a-truth-table-to-a-boolean-expression": {
+      "layout": "index",
+      "jsonName": "converting-from-a-truth-table-to-a-boolean-expression.json",
+      "internalComponentName": "ComponentConvertingFromATruthTableToABooleanExpression",
+      "path": "/converting-from-a-truth-table-to-a-boolean-expression",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
+      "id": "SitePage /converting-from-a-truth-table-to-a-boolean-expression",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9cb74b7d2ffcad36401cef9d6a3e5160",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /intro-to-react-query": {
+      "layout": "index",
+      "jsonName": "intro-to-react-query.json",
+      "internalComponentName": "ComponentIntroToReactQuery",
+      "path": "/intro-to-react-query",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/templates/blog-post.js",
+      "id": "SitePage /intro-to-react-query",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "748ae5d1e56ac68de3e756b37479477f",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bd8320d7169bea9f073d94232166f391",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "layout": "index",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3433379bb6258ad3f30a0a3d856c1416",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "723675834e2ef3b29b2a40c68d08b690",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "80df79307c3af3201e7729ecd4bfd38a",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /portfolio/": {
+      "layout": "index",
+      "jsonName": "portfolio.json",
+      "internalComponentName": "ComponentPortfolio",
+      "path": "/portfolio/",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/portfolio.js",
+      "componentChunkName": "component---src-pages-portfolio-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/portfolio.js",
+      "id": "SitePage /portfolio/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0631c1d8d7d0f8e358ad542121585ad0",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /resume/": {
+      "layout": "index",
+      "jsonName": "resume.json",
+      "internalComponentName": "ComponentResume",
+      "path": "/resume/",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/resume.js",
+      "componentChunkName": "component---src-pages-resume-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/resume.js",
+      "id": "SitePage /resume/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b714f38ac965d6918ba541c75b526e79",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/mindsea/Documents/psnl/Projects/nedu.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c4462353e98620f5192fec9edbfede46",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
