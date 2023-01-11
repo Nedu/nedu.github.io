@@ -10,7 +10,7 @@
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-remark-katex": "^2.0.6",
     "gatsby-source-filesystem": "^1.5.33",
-    "gatsby-transformer-remark": "^1.7.40",
+    "gatsby-transformer-remark": "^5.25.1",
     "gh-pages": "^1.2.0",
     "react-helmet": "^5.2.0",
     "react-icons": "^2.2.7"
